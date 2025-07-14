@@ -1,0 +1,17 @@
+numpy >= 1.25.0
+tqdm
+typeguard
+visualdl>=2.2.0
+PyYAML
+shapely
+scipy
+terminaltables
+Cython
+pycocotools
+setuptools
+paddlepaddle-gpu>=2.6.0
+onnx
+onnx-graphsurgeon
+opencv-python
+paddle2onnx
+scikit-learn>=1.6.1

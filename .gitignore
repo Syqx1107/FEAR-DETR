@@ -1,0 +1,12 @@
+configs/feardetr/*
+configs/feardetr_ab/*
+configs/feardetr-l/*
+configs/semi_det/*
+datasets
+infer_output/*
+output*
+logs/*
+ppdet/modeling/*
+tools/infer.py
+tools/gt_infer.py
+tools/train.py
